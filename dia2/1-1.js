@@ -1,0 +1,9 @@
+// Nivel 1-1 Mostrar número pares
+function pares(){
+    for(let i = 1; i <= 100; i++){
+        if(i % 2 == 0){
+            console.log(i);
+        }
+    }
+}
+pares();
