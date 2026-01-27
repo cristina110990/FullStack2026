@@ -67,3 +67,7 @@ var n2 = prompt('Dame otro número ');
 console.log(`La suma es ${parseInt(n1) + parseInt(n2)}`);
 
 // Iniciar consola: mkdir crea carpeta nueva, cd nombre entra en carpeta, npm init, npm install, npm install prompt-sync, npm install -g nodemon
+
+// createdAt y updateAt en mongoose, date.now actualiza fecha de creación y modificación
+
+// npm init -y, npm install express mongoose, nodemon, http://localhost:3000
