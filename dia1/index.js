@@ -66,8 +66,14 @@ var n1 = prompt('Dame un número ');
 var n2 = prompt('Dame otro número ');
 console.log(`La suma es ${parseInt(n1) + parseInt(n2)}`);
 
-// Iniciar consola: mkdir crea carpeta nueva, cd nombre entra en carpeta, npm init, npm install, npm install prompt-sync, npm install -g nodemon
+// Iniciar consola: cp -r dia5 dia6 copiar carpeta origen destino, mkdir crea carpeta nueva, cd nombre entra en carpeta, npm init -y, npm install, npm install prompt-sync, npm install -g nodemon
+
+// npm install express mongoose, nodemon, http://localhost:3000
 
 // createdAt y updateAt en mongoose, date.now actualiza fecha de creación y modificación
+// const bcrypt = require('bcrypt'); // Importamos bcrypt para encriptar contraseñas con npm install bcrypt
 
-// npm init -y, npm install express mongoose, nodemon, http://localhost:3000
+// index.js -> ruta -> controllers -> models
+
+// CRUD: Create, Read, Update, Delete
+
